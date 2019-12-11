@@ -1,0 +1,6 @@
+/py
+/node
+/clj
+.env.local
+*.old
+
